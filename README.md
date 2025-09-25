@@ -1,4 +1,4 @@
-Autonomous Delivery Agent 
+Autonomous Delivery Agent
 
 This project features an autonomous agent designed to navigate a 2D grid-based city to find the most efficient delivery routes. It implements and compares various pathfinding algorithms, handling static obstacles, variable terrain costs, and dynamic obstacles that require real-time replanning.
 
